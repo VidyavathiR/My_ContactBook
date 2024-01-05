@@ -1,5 +1,4 @@
 # My_ContactBook
-# Contact Book App
 
 This is a simple program that helps you manage your contacts. You can add, edit, and delete contacts using this application. It's built with Python and Tkinter.
 
@@ -19,10 +18,10 @@ This is a simple program that helps you manage your contacts. You can add, edit,
 
 1. **Clone the Repository:**
     - Open your terminal or command prompt.
-    - Type: `git clone https://github.com/your-username/contact-book.git`
+    - Type: `git clone https://github.com/VidyavathiR/My_ContactBook.git`
 
 2. **Navigate to the Project:**
-    - Type: `cd contact-book`
+    - Type: `cd My_ContactBook`
 
 3. **Run the App:**
     - Type: `python contact_book.py`
@@ -30,13 +29,6 @@ This is a simple program that helps you manage your contacts. You can add, edit,
 4. **Use the App:**
     - Follow the on-screen instructions to manage your contacts.
 
-## Contributing
 
-If you want to help make this app better:
-
-1. **Fork the Repository:** Make your own copy of the project.
-2. **Create a New Branch:** Make changes in a new branch.
-3. **Make Changes:** Add your improvements.
-4. **Submit a Pull Request:** Share your changes so they can be added to the main project.
 
 
