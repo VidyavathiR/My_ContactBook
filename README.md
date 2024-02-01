@@ -28,6 +28,10 @@ This is a simple program that helps you manage your contacts. You can add, edit,
 
 4. **Use the App:**
     - Follow the on-screen instructions to manage your contacts.
+  
+---
+
+**Happy Coding! 🚀**
 
 
 
